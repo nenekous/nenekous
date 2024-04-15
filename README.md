@@ -1,4 +1,4 @@
-#About me ✋!
+# About me ✋!
 
 Hi, my name is Anin, a dedicated quality assurance since 2020. With a keen eye for details and strong dedication, I've specialized my skills in game testing while also adeptly navigating in web and app testing. However, this is just the beginning of my journey, as I am eager to expand my skill set and gain more experience. In the future, I envision enhancing my expertise in automation quality assurance.
 
