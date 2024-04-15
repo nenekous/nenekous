@@ -11,17 +11,17 @@ Motivated by an insatiable appetite for challenge, I thrive on the opportunity t
 
 ## Experience:
 ### 1. UTest (2023 - now) - Freelance
-a. Perform manual testing on the app and website to ensure quality.
-b. Provide detailed bug reports to developers with meticulous attention to detail.
+- Perform manual testing on the app and website to ensure quality.
+-  Provide detailed bug reports to developers with meticulous attention to detail.
 
 ### 2. PT Satuka Teknologi Internasional (Contract, 2021-2023) - Operational Associate
-a. Conduct thorough manual testing procedures to verify adherence to company standards, ensuring an enjoyable and bug-free gaming experience for players.
-b. Methodically identify and document bugs and issues encountered during testing, compiling detailed reports to facilitate effective communication with the development team.
-c. Evaluate and validate bug reports received from game testers and users, prioritizing and communicating critical issues to developers for prompt resolution.
-d. Actively collaborate with the development team to guarantee that the product's quality met user expectations, offering insights and suggestions to enhance the gaming experience.
-e. Generate comprehensive documentation and test reports to support efficient testing procedures and provide valuable reference materials for the team.
-f. Engage with players via chat, addressing complaints, and providing suitable solutions, contributing to an improved player experience. 
-g. Assist in providing background music (BGM), sound effects (SFX), and Japanese localization to expand the player base among Japanese-speaking audiences, enhancing the game's accessibility and popularity within that demographic.
+- Conduct thorough manual testing procedures to verify adherence to company standards, ensuring an enjoyable and bug-free gaming experience for players.
+- Methodically identify and document bugs and issues encountered during testing, compiling detailed reports to facilitate effective communication with the development team.
+- Evaluate and validate bug reports received from game testers and users, prioritizing and communicating critical issues to developers for prompt resolution.
+- Actively collaborate with the development team to guarantee that the product's quality met user expectations, offering insights and suggestions to enhance the gaming experience.
+- Generate comprehensive documentation and test reports to support efficient testing procedures and provide valuable reference materials for the team.
+- Engage with players via chat, addressing complaints, and providing suitable solutions, contributing to an improved player experience. 
+- Assist in providing background music (BGM), sound effects (SFX), and Japanese localization to expand the player base among Japanese-speaking audiences, enhancing the game's accessibility and popularity within that demographic.
 
 ## Tools:
 1. Jira, Trello, and Notion - bug and project management
@@ -80,7 +80,7 @@ Course:
 2. Gadjah Mada - Office Administration (2020) 
 
 ## Samples:
-1. Test Plan: https://docs.google.com/document/d/1UWMzeCnTAA9CRAAEaQgChnqjLvRlf04OIS8SyaiYzBs/edit?usp=drivesdk
-2. Test Case: https://docs.google.com/spreadsheets/d/10ctHj2Q97S3acAMcZybQDHswjrS3i0dX-HPxYDtQjt0/edit?usp=drivesdk
-3. Bug Report: https://docs.google.com/spreadsheets/d/1EoOpqiSz51s03GSi5UkCHQGd14SFxXKMCWUMNXfTQsM/edit?usp=drivesdk
-4. Test Report: https://docs.google.com/document/d/1nEnnK_Bf41Pt96p5d2lhkgI5idzxwR-jW_WBa99t0dI/edit?usp=drivesdk
+1. [Test Plan](https://docs.google.com/document/d/1UWMzeCnTAA9CRAAEaQgChnqjLvRlf04OIS8SyaiYzBs/edit?usp=drivesdk)
+2. [Test Case](https://docs.google.com/spreadsheets/d/10ctHj2Q97S3acAMcZybQDHswjrS3i0dX-HPxYDtQjt0/edit?usp=drivesdk)
+3. [Bug Report](https://docs.google.com/spreadsheets/d/1EoOpqiSz51s03GSi5UkCHQGd14SFxXKMCWUMNXfTQsM/edit?usp=drivesdk)
+4. [Test Report:](https://docs.google.com/document/d/1nEnnK_Bf41Pt96p5d2lhkgI5idzxwR-jW_WBa99t0dI/edit?usp=drivesdk)
