@@ -83,4 +83,4 @@ Motivated by an insatiable appetite for challenge, I thrive on the opportunity t
 1. [Test Plan](https://docs.google.com/document/d/1UWMzeCnTAA9CRAAEaQgChnqjLvRlf04OIS8SyaiYzBs/edit?usp=drivesdk)
 2. [Test Case](https://docs.google.com/spreadsheets/d/10ctHj2Q97S3acAMcZybQDHswjrS3i0dX-HPxYDtQjt0/edit?usp=drivesdk)
 3. [Bug Report](https://docs.google.com/spreadsheets/d/1EoOpqiSz51s03GSi5UkCHQGd14SFxXKMCWUMNXfTQsM/edit?usp=drivesdk)
-4. [Test Report:](https://docs.google.com/document/d/1nEnnK_Bf41Pt96p5d2lhkgI5idzxwR-jW_WBa99t0dI/edit?usp=drivesdk)
+4. [Test Report](https://docs.google.com/document/d/1nEnnK_Bf41Pt96p5d2lhkgI5idzxwR-jW_WBa99t0dI/edit?usp=drivesdk)
