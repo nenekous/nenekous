@@ -75,7 +75,7 @@ Motivated by an insatiable appetite for challenge, I thrive on the opportunity t
 1. Latto-Latto 3D Clackers Master (EN - JP) 
 2. Tahu Bulat Stories (ID - EN, early development) 
 
-Course:
+## Course:
 1. TAK - QA Bootcamp (April 2023) 
 2. Gadjah Mada - Office Administration (2020) 
 
